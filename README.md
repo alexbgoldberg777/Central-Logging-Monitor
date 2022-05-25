@@ -11,6 +11,6 @@ would be rejected. \
 I acted as the team leader of the CI/CD team. My contributions included project management of the CI/CD as well as the integration phase where code written by all of the 
 frontend and backend teams was combined for the final product, setting up and maintaining the Jenkins pipeline and integrating it with Github, review and approval of all
 of the Cypress tests written and with all code during the integration phase, setting up and maintaining the MySQL test database, acting as a communication liaison between
-all of the teams, and general programming and infrastructure where needed. \
+all of the teams, and general programming and infrastructure where needed.
 
 The Cetral Logging Monitor was created during David Fisher's Spring 2022 Software Engineering Course, and was designed to work with ISO New England's log data.
