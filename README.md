@@ -9,7 +9,7 @@ anytime a contributor made a pull request, their code would be automatically tes
 would be rejected.
 
 I acted as the team leader of the CI/CD team. My contributions include project management of the CI/CD as well as the integration phase where code written by all of the 
-frontend and backend teams was combined for the final product, setting up and maintaining the Jenkins pipeline and integrating it with Github, review and approval of all
+frontend and backend teams was combined for the final product, setting up and maintaining the Jenkins pipeline and integrating it with Github, managing issues with merging code from different teams, review and approval of all
 of the Cypress tests written and with all code during the integration phase, setting up and maintaining the MySQL test database, acting as a communication liaison between
 all of the teams, and providing programming and infrastructure aid where needed.
 
